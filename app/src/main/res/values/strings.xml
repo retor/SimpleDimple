@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleDimple</string>
+    <string name="action_add">Add person</string>
+    <string name="first_fragment_label">Test task by *Dmitriy Sokolov*</string>
+    <string name="header_list_title">Candidates</string>
+    <string name="header_list_count">%1$s people</string>
+</resources>
